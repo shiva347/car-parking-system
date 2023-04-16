@@ -16,7 +16,7 @@ in the backend and Vue.js in the frontend. PostgreSQL is used as the database fo
 ## Project Setup 
 Clone the repository
 ```
-git clone https://github.com/shivaFero/car_parking_system/
+git clone https://github.com/shiva347/car-parking-system.git
 ```
 
 # Backend 
