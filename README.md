@@ -72,4 +72,3 @@ create .env file at project label directory(add VUE_APP_BASE_URL=<backend_url>)
 ```
 npm run serve
 ```
-
